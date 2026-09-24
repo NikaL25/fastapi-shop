@@ -216,6 +216,3 @@ pnpm lint
 pnpm format
 ```
 
-## 📄 License
-
-Лицензия проекта пока не указана.
